@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: jackson-subtype-demo
+server:
+  port: 9999
+logging:
+  level:
+    root: INFO
